@@ -29,9 +29,15 @@
 ### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dima-Kaddah.Dima-Kaddah.1)
 
+<detail>
+<summary>
+### :sparkles: more stuff
+<detail>
+
 ### :sparkles: GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dima-Kaddah&count_private=true&hide=contribs,prs&theme=tokyonight)
 
-#### Coding Stats
+#### :sparkles: Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</detail>
