@@ -3,8 +3,6 @@
 
 
 
-
-
 - 🔭 ...I’m currently looking for an opportunity with new challenges.
 
 
@@ -34,3 +32,6 @@
 ### :sparkles: GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dima-Kaddah&count_private=true&hide=contribs,prs&theme=tokyonight)
 
+#### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
