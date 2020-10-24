@@ -32,7 +32,7 @@
 <detail>
 <summary>
 ### :sparkles: more stuff
-<detail>
+</summary>
 
 ### :sparkles: GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dima-Kaddah&count_private=true&hide=contribs,prs&theme=tokyonight)
