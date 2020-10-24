@@ -29,7 +29,7 @@
 ### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dima-Kaddah.Dima-Kaddah.1)
 
-<detail>
+<details>
 <summary>
 ### :sparkles: more stuff
 </summary>
@@ -40,4 +40,4 @@
 #### :sparkles: Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</detail>
+</details>
