@@ -33,18 +33,20 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dima-Kaddah.Dima-Kaddah.1)
 
 <details>
-<summary>
-### :sparkles: more stuff
+<summary>  
+:sparkles: Top Languages
 </summary>
 
-#### :sparkles: Top Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-Kaddah&layout=compact)](https://github.com/Dima-Kaddah/github-readme-stats)
+</details>
 
-### :sparkles: GitHub Stats
+<details>
+<summary>  
+  :sparkles: GitHub Stats
+</summary>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dima-Kaddah&count_private=true&hide=contribs,prs&theme=tokyonight)
 
-#### :sparkles: Coding Stats
 </details>
 
 
