@@ -34,7 +34,7 @@
 ### :sparkles: more stuff
 </summary>
 
-#### :sparkles: Top Langs
+#### :sparkles: Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -43,3 +43,5 @@
 
 #### :sparkles: Coding Stats
 </details>
+
+
