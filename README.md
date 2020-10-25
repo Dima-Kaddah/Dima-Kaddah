@@ -39,7 +39,3 @@
 
 #### :sparkles: Coding Stats
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-</details>
