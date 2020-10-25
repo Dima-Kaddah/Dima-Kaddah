@@ -34,12 +34,12 @@
 ### :sparkles: more stuff
 </summary>
 
+#### :sparkles: Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :sparkles: GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dima-Kaddah&count_private=true&hide=contribs,prs&theme=tokyonight)
 
 #### :sparkles: Coding Stats
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 </details>
