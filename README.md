@@ -38,10 +38,19 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dima-Kaddah&count_private=true&hide=contribs,prs&theme=tokyonight)
 
 #### :sparkles: Coding Stats
+
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
+<<<<<<< HEAD
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+||||||| merged common ancestors
+=======
+
+>>>>>>> 195e53fb26c5eabd504641f2c945fe3ba646ab53
 </details>
