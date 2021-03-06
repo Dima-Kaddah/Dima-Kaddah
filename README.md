@@ -6,7 +6,7 @@
 - 🔭 ... I’m currently looking for an opportunity with new challenges.
 
 
-- 🌱 ... I’m currently learning ... everything :grin: ✨  **[ @:school_satchel: HackYourFuture:mortar_board: ](https://github.com/HackYourFuture)** ✨
+- 🌱 ... I’m currently learning ... everything :grin: 
 
 
 
