@@ -1,4 +1,4 @@
-#### Hi I'm Dima <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+#### Hi I'm Dima <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="3%" alt="hi"> 
 
 
 
@@ -20,7 +20,7 @@
 [![Mail Badge](https://img.shields.io/badge/-dimaKaddah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dimakaddah@gmail.com)
 
 
-- :zap: fact: ... Iam<img src="https://media.giphy.com/media/TexySKeea70FlT4T9A/giphy.gif" width="33px" alt="metal">  head 
+- :zap: fact: ... Iam<img src="https://media.giphy.com/media/TexySKeea70FlT4T9A/giphy.gif" width="5%" alt="metal">  head 
 
 
 - :paperclip: [My Resume/CV](https://docs.google.com/presentation/d/1bq0L2gDCnihdg3Htnf1a1jXYX5_2JHZ7Tf2HwrH3n8M/edit?usp=sharing)
