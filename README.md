@@ -23,7 +23,7 @@
 - :zap: fact: ... Iam<img src="https://media.giphy.com/media/TexySKeea70FlT4T9A/giphy.gif" width="5%" alt="metal"> 
 
 
-- :paperclip: [My Resume/CV]([https://docs.google.com/presentation/d/1bq0L2gDCnihdg3Htnf1a1jXYX5_2JHZ7Tf2HwrH3n8M/edit?usp=sharing](https://github.com/Dima-Kaddah/Dima-Kaddah/blob/main/CV/Dima%20Kaddah.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Dima-Kaddah/Dima-Kaddah/blob/main/CV/Dima%20Kaddah.pdf)
 
 - :email: dimakaddah@gmail.com
 
